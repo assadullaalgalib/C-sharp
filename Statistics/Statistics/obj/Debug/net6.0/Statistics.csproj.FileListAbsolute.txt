@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.exe
+C:\Users\USER\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.deps.json
+C:\Users\USER\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.runtimeconfig.json
+C:\Users\USER\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.dll
+C:\Users\USER\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.pdb
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfo.cs
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.dll
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\refint\Statistics.dll
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.pdb
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.genruntimeconfig.cache
+C:\Users\USER\source\repos\Statistics\Statistics\obj\Debug\net6.0\ref\Statistics.dll
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\bin\Debug\net6.0\Statistics.exe
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\bin\Debug\net6.0\Statistics.deps.json
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\bin\Debug\net6.0\Statistics.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\bin\Debug\net6.0\Statistics.dll
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\bin\Debug\net6.0\Statistics.pdb
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.dll
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\refint\Statistics.dll
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.pdb
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\Statistics.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Statistics\Statistics\obj\Debug\net6.0\ref\Statistics.dll
