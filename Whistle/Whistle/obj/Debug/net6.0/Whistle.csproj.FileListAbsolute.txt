@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Whistle\Whistle\bin\Debug\net6.0\Whistle.exe
+C:\Users\USER\source\repos\Whistle\Whistle\bin\Debug\net6.0\Whistle.deps.json
+C:\Users\USER\source\repos\Whistle\Whistle\bin\Debug\net6.0\Whistle.runtimeconfig.json
+C:\Users\USER\source\repos\Whistle\Whistle\bin\Debug\net6.0\Whistle.dll
+C:\Users\USER\source\repos\Whistle\Whistle\bin\Debug\net6.0\Whistle.pdb
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.AssemblyInfo.cs
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.dll
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\refint\Whistle.dll
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.pdb
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\Whistle.genruntimeconfig.cache
+C:\Users\USER\source\repos\Whistle\Whistle\obj\Debug\net6.0\ref\Whistle.dll

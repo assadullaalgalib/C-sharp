@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Using Card\Using Card\bin\Debug\net6.0\Using Card.exe
+C:\Users\USER\source\repos\Using Card\Using Card\bin\Debug\net6.0\Using Card.deps.json
+C:\Users\USER\source\repos\Using Card\Using Card\bin\Debug\net6.0\Using Card.runtimeconfig.json
+C:\Users\USER\source\repos\Using Card\Using Card\bin\Debug\net6.0\Using Card.dll
+C:\Users\USER\source\repos\Using Card\Using Card\bin\Debug\net6.0\Using Card.pdb
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.AssemblyInfo.cs
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.dll
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\refint\Using Card.dll
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.pdb
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\Using Card.genruntimeconfig.cache
+C:\Users\USER\source\repos\Using Card\Using Card\obj\Debug\net6.0\ref\Using Card.dll
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\bin\Debug\net6.0\Using Card.exe
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\bin\Debug\net6.0\Using Card.deps.json
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\bin\Debug\net6.0\Using Card.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\bin\Debug\net6.0\Using Card.dll
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\bin\Debug\net6.0\Using Card.pdb
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.dll
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\refint\Using Card.dll
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.pdb
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\Using Card.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Using Card\Using Card\obj\Debug\net6.0\ref\Using Card.dll

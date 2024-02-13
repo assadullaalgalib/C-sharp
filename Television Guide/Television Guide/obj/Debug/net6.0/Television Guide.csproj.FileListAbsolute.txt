@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.exe
+C:\Users\USER\source\repos\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.deps.json
+C:\Users\USER\source\repos\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.runtimeconfig.json
+C:\Users\USER\source\repos\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.dll
+C:\Users\USER\source\repos\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.pdb
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.AssemblyInfo.cs
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.dll
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\refint\Television Guide.dll
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.pdb
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.genruntimeconfig.cache
+C:\Users\USER\source\repos\Television Guide\Television Guide\obj\Debug\net6.0\ref\Television Guide.dll
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.exe
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.deps.json
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.dll
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\bin\Debug\net6.0\Television Guide.pdb
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.dll
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\refint\Television Guide.dll
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.pdb
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\Television Guide.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Television Guide\Television Guide\obj\Debug\net6.0\ref\Television Guide.dll
