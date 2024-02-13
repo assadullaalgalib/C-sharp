@@ -1,0 +1,21 @@
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.AssemblyInfo.cs
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Dog\Dog\bin\Debug\net6.0\Dog.exe
+C:\Users\USER\source\repos\Dog\Dog\bin\Debug\net6.0\Dog.deps.json
+C:\Users\USER\source\repos\Dog\Dog\bin\Debug\net6.0\Dog.runtimeconfig.json
+C:\Users\USER\source\repos\Dog\Dog\bin\Debug\net6.0\Dog.dll
+C:\Users\USER\source\repos\Dog\Dog\bin\Debug\net6.0\Dog.pdb
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.dll
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\refint\Dog.dll
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.pdb
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\Dog.genruntimeconfig.cache
+C:\Users\USER\source\repos\Dog\Dog\obj\Debug\net6.0\ref\Dog.dll
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\Dog.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\Dog.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\Dog.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\Dog.dll
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\refint\Dog.dll
+C:\Users\USER\source\repos\lab manual 2\Dog\Dog\obj\Debug\net6.0\Dog.pdb
