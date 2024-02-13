@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\netcoreapp2.1\Gauge.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\netcoreapp2.1\Gauge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\netcoreapp2.1\Gauge.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\netcoreapp2.1\Gauge.AssemblyInfo.cs
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\netcoreapp2.1\Gauge.csproj.CoreCompileInputs.cache

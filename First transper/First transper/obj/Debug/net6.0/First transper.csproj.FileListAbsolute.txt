@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\First transper\First transper\bin\Debug\net6.0\First transper.exe
+C:\Users\USER\source\repos\First transper\First transper\bin\Debug\net6.0\First transper.deps.json
+C:\Users\USER\source\repos\First transper\First transper\bin\Debug\net6.0\First transper.runtimeconfig.json
+C:\Users\USER\source\repos\First transper\First transper\bin\Debug\net6.0\First transper.dll
+C:\Users\USER\source\repos\First transper\First transper\bin\Debug\net6.0\First transper.pdb
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.AssemblyInfo.cs
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.dll
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\refint\First transper.dll
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.pdb
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\First transper.genruntimeconfig.cache
+C:\Users\USER\source\repos\First transper\First transper\obj\Debug\net6.0\ref\First transper.dll
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\bin\Debug\net6.0\First transper.exe
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\bin\Debug\net6.0\First transper.deps.json
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\bin\Debug\net6.0\First transper.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\bin\Debug\net6.0\First transper.dll
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\bin\Debug\net6.0\First transper.pdb
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.dll
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\refint\First transper.dll
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.pdb
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\First transper.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\First transper\First transper\obj\Debug\net6.0\ref\First transper.dll

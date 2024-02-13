@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\Frist  class\Frist  class\obj\Debug\net6.0\Frist  class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Frist  class\Frist  class\obj\Debug\net6.0\Frist  class.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Frist  class\Frist  class\obj\Debug\net6.0\Frist  class.AssemblyInfo.cs
+C:\Users\USER\source\repos\Frist  class\Frist  class\obj\Debug\net6.0\Frist  class.csproj.CoreCompileInputs.cache

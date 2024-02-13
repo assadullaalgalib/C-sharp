@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\net6.0\Gauge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\net6.0\Gauge.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\net6.0\Gauge.AssemblyInfo.cs
+C:\Users\USER\source\repos\Gauge\Gauge\obj\Debug\net6.0\Gauge.csproj.CoreCompileInputs.cache
