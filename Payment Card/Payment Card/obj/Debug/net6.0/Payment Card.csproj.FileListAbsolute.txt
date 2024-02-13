@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.exe
+C:\Users\USER\source\repos\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.deps.json
+C:\Users\USER\source\repos\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.runtimeconfig.json
+C:\Users\USER\source\repos\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.dll
+C:\Users\USER\source\repos\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.pdb
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.AssemblyInfo.cs
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.dll
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\refint\Payment Card.dll
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.pdb
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.genruntimeconfig.cache
+C:\Users\USER\source\repos\Payment Card\Payment Card\obj\Debug\net6.0\ref\Payment Card.dll
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.exe
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.deps.json
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.dll
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\bin\Debug\net6.0\Payment Card.pdb
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.dll
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\refint\Payment Card.dll
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.pdb
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\Payment Card.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Payment Card\Payment Card\obj\Debug\net6.0\ref\Payment Card.dll

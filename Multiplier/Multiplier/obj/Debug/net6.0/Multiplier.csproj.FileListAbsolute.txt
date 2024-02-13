@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.exe
+C:\Users\USER\source\repos\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.deps.json
+C:\Users\USER\source\repos\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.runtimeconfig.json
+C:\Users\USER\source\repos\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.dll
+C:\Users\USER\source\repos\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.pdb
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.AssemblyInfo.cs
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.dll
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\refint\Multiplier.dll
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.pdb
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.genruntimeconfig.cache
+C:\Users\USER\source\repos\Multiplier\Multiplier\obj\Debug\net6.0\ref\Multiplier.dll
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.exe
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.deps.json
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.dll
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\bin\Debug\net6.0\Multiplier.pdb
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.dll
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\refint\Multiplier.dll
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.pdb
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\Multiplier.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Multiplier\Multiplier\obj\Debug\net6.0\ref\Multiplier.dll
