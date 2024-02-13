@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\lab1\lab1\bin\Debug\net6.0\lab1.exe
+C:\Users\USER\source\repos\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+C:\Users\USER\source\repos\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+C:\Users\USER\source\repos\lab1\lab1\bin\Debug\net6.0\lab1.dll
+C:\Users\USER\source\repos\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.dll
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\bin\Debug\net6.0\lab1.exe
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\bin\Debug\net6.0\lab1.dll
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.dll
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual part 1\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
