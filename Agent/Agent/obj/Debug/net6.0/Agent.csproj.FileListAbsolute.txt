@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Agent\Agent\bin\Debug\net6.0\Agent.exe
+C:\Users\USER\source\repos\Agent\Agent\bin\Debug\net6.0\Agent.deps.json
+C:\Users\USER\source\repos\Agent\Agent\bin\Debug\net6.0\Agent.runtimeconfig.json
+C:\Users\USER\source\repos\Agent\Agent\bin\Debug\net6.0\Agent.dll
+C:\Users\USER\source\repos\Agent\Agent\bin\Debug\net6.0\Agent.pdb
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.AssemblyInfo.cs
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.dll
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\refint\Agent.dll
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.pdb
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\Agent.genruntimeconfig.cache
+C:\Users\USER\source\repos\Agent\Agent\obj\Debug\net6.0\ref\Agent.dll
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\bin\Debug\net6.0\Agent.exe
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\bin\Debug\net6.0\Agent.deps.json
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\bin\Debug\net6.0\Agent.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\bin\Debug\net6.0\Agent.dll
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\bin\Debug\net6.0\Agent.pdb
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.dll
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\refint\Agent.dll
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.pdb
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\Agent.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Agent\Agent\obj\Debug\net6.0\ref\Agent.dll

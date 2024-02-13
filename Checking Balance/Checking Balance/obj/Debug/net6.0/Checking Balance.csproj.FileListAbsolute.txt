@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.exe
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.deps.json
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.runtimeconfig.json
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.dll
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.pdb
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.AssemblyInfo.cs
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.dll
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\refint\Checking Balance.dll
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.pdb
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.genruntimeconfig.cache
+C:\Users\USER\source\repos\Checking Balance\Checking Balance\obj\Debug\net6.0\ref\Checking Balance.dll
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.exe
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.deps.json
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.dll
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\bin\Debug\net6.0\Checking Balance.pdb
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.dll
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\refint\Checking Balance.dll
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.pdb
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\Checking Balance.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Checking Balance\Checking Balance\obj\Debug\net6.0\ref\Checking Balance.dll

@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Account\Account\bin\Debug\net6.0\Account.exe
+C:\Users\USER\source\repos\Account\Account\bin\Debug\net6.0\Account.deps.json
+C:\Users\USER\source\repos\Account\Account\bin\Debug\net6.0\Account.runtimeconfig.json
+C:\Users\USER\source\repos\Account\Account\bin\Debug\net6.0\Account.dll
+C:\Users\USER\source\repos\Account\Account\bin\Debug\net6.0\Account.pdb
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.AssemblyInfo.cs
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.dll
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\refint\Account.dll
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.pdb
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\Account.genruntimeconfig.cache
+C:\Users\USER\source\repos\Account\Account\obj\Debug\net6.0\ref\Account.dll
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\bin\Debug\net6.0\ACCOUNT.exe
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\bin\Debug\net6.0\ACCOUNT.deps.json
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\bin\Debug\net6.0\ACCOUNT.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\bin\Debug\net6.0\ACCOUNT.dll
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\bin\Debug\net6.0\ACCOUNT.pdb
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.dll
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\refint\ACCOUNT.dll
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.pdb
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ACCOUNT.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Account\ACCOUNT\obj\Debug\net6.0\ref\ACCOUNT.dll

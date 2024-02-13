@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Book Class\Book Class\bin\Debug\net6.0\Book Class.exe
+C:\Users\USER\source\repos\Book Class\Book Class\bin\Debug\net6.0\Book Class.deps.json
+C:\Users\USER\source\repos\Book Class\Book Class\bin\Debug\net6.0\Book Class.runtimeconfig.json
+C:\Users\USER\source\repos\Book Class\Book Class\bin\Debug\net6.0\Book Class.dll
+C:\Users\USER\source\repos\Book Class\Book Class\bin\Debug\net6.0\Book Class.pdb
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.AssemblyInfo.cs
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.dll
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\refint\Book Class.dll
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.pdb
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\Book Class.genruntimeconfig.cache
+C:\Users\USER\source\repos\Book Class\Book Class\obj\Debug\net6.0\ref\Book Class.dll
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\bin\Debug\net6.0\Book Class.exe
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\bin\Debug\net6.0\Book Class.deps.json
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\bin\Debug\net6.0\Book Class.runtimeconfig.json
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\bin\Debug\net6.0\Book Class.dll
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\bin\Debug\net6.0\Book Class.pdb
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.AssemblyInfo.cs
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.dll
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\refint\Book Class.dll
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.pdb
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\Book Class.genruntimeconfig.cache
+C:\Users\USER\source\repos\lab manual 2\Book Class\Book Class\obj\Debug\net6.0\ref\Book Class.dll
